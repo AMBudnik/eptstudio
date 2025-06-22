@@ -106,10 +106,10 @@
 
  const tracks = [
             {
-                id: 'Hq1vDKZpllY?si=QaLDKC_MuB14y6LN',
-                title: 'Teaser: Breath is just a memory',
+                id: '2o4JQse7Okw?si=bA9WU2RWzL83VlrR',
+                title: 'Breath is just a memory',
                 description: 'This is a teaser for the Breath is just a memory. It will be available on my channel today at 6 PM CEST.',
-                duration: '0:15',
+                duration: '2:40',
                 genre: 'Dubstep, Growling',
                 thumbnail: 'https://i.ytimg.com/vi/Hq1vDKZpllY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gQigfMA8=&rs=AOn4CLA2_SbLT3kYcQXCbTVWaCiihpUU2Q'
             },
